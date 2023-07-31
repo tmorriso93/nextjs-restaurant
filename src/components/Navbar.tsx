@@ -17,7 +17,7 @@ const Navbar = () => {
         </div>
         {/*Logo*/}
         <div className='text-xl md:font-bold flex-1 md:text-center'>
-            <Link href="/">Guillermos pizza</Link>
+            <Link href="/">{`Guillermo's pizza`}</Link>
         </div>
         {/*Mobile Menu*/}
         <div className='md:hidden'>
